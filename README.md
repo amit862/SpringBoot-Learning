@@ -51,4 +51,6 @@ springboot-learning/
 └── README.md
 
 📄 [Spring Boot Notes (PDF)](https://drive.google.com/drive/u/1/folders/1WCMFRtRx5zVCIbyXvOzLekvw68KIS5Ua)
+[Quick Notes](https://drive.google.com/file/d/1ixROI_D8zQNAEK0exvy39K_JerBvT7kP/view?usp=sharing)
+
 
