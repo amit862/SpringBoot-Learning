@@ -63,5 +63,6 @@ springboot-learning/
 - 📄 [Spring Boot Notes (PDF)]([https://drive.google.com/uc?export=view&id=1AbCDeFgHIjkLmNOPq](https://drive.google.com/file/d/1drjdCPlhzZ-t_UWhu1sLYKtX0jzOjJRk/view?usp=drive_link))
 
 - 📄 [Spring Boot Notes (PDF)](https://drive.google.com/file/d/1drjdCPlhzZ-t_UWhu1sLYKtX0jzOjJRk/view?usp=drive_link)
+[Quick Notes]([https://drive.google.com/file/d/1drjdCPlhzZ-t_UWhu1sLYKtX0jzOjJRk/view?usp=drive_link))
 
 
