@@ -50,4 +50,5 @@ springboot-learning/
 │   └── application.properties
 └── README.md
 
-📄 [Spring Boot Notes (PDF)]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/drive/u/1/folders/1WCMFRtRx5zVCIbyXvOzLekvw68KIS5Ua))
+📄 [Spring Boot Notes (PDF)](https://drive.google.com/drive/u/1/folders/1WCMFRtRx5zVCIbyXvOzLekvw68KIS5Ua)
+
