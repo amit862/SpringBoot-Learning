@@ -50,10 +50,18 @@ springboot-learning/
 │   └── application.properties
 └── README.md
 
-#📄 [Spring Boot Notes (PDF)](https://drive.google.com/file/d/FILE_ID/view)
+#📄 [Spring Boot Notes (PDF)]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1drjdCPlhzZ-t_UWhu1sLYKtX0jzOjJRk/view?usp=drive_link))
 #[Quick Notes]([https://drive.google.com/file/d/1ixROI_D8zQNAEK0exvy39K_JerBvT7kP/view?usp=sharing](https://drive.google.com/file/d/1-kvhUa4DLN0HqLMRWtpoEKKq17n3zYyx/view?usp=drive_link))
 
 [Quick Notes]([https://drive.google.com/file/d/1-kvhUa4DLN0HqLMRWtpoEKKq17n3zYyx/view?usp=drive_link](https://drive.google.com/file/d/1-kvhUa4DLN0HqLMRWtpoEKKq17n3zYyx/view?usp=sharing))
 [Quick Notes](https://drive.google.com/drive/u/1/folders/1WCMFRtRx5zVCIbyXvOzLekvw68KIS5Ua)
+
+(https://drive.google.com/file/d/1drjdCPlhzZ-t_UWhu1sLYKtX0jzOjJRk/view?usp=drive_link)
+
+## 📘 Learning Resources
+
+- 📄 [Spring Boot Notes (PDF)]([https://drive.google.com/uc?export=view&id=1AbCDeFgHIjkLmNOPq](https://drive.google.com/file/d/1drjdCPlhzZ-t_UWhu1sLYKtX0jzOjJRk/view?usp=drive_link))
+
+- 📄 [Spring Boot Notes (PDF)](https://drive.google.com/file/d/1drjdCPlhzZ-t_UWhu1sLYKtX0jzOjJRk/view?usp=drive_link)
 
 
