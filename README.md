@@ -2,7 +2,7 @@
 
 This repository documents my **hands-on learning journey with Spring Boot**, covering core concepts, practical examples, and best practices used in real-world Java backend development.
 
-The goal of this repository is to build a **strong foundation in Spring Boot** and gradually move towards **production-ready applications**.
+The goal of this repository is to build a **strong foundation in Spring Boot** and gradually move towards  **production-ready applications**.
 
 ---
 
