@@ -44,7 +44,7 @@ springboot-learning/
 ├── entity/             # Entity Classes
 ├── dto/                # Data Transfer Objects
 ├── exception/          # Custom Exceptions & Handlers
-├── config/             # Configuration Classes
+├── config/             # Configuration Classe
 ├── resources/
 │   ├── application.yml
 │   └── application.properties
