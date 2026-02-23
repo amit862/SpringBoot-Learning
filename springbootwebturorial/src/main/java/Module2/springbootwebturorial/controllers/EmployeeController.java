@@ -25,4 +25,14 @@ public class EmployeeController {
                                   @RequestParam(required = false) String sortBy) {
         return "Hi age "+age+" "+sortBy;
     }
+
+    @PostMapping
+    public EmployeeDTO  createNewEmployee(@RequestBody EmployeeDTO inputEmployee) {
+        inputEmployee.setId(100L);
+        return inputEmployee;
+    }
+
+    @PutMapping String updateEmployeeById() {
+        return "Hello from PUT";
+    }
 }
